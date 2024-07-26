@@ -1,4 +1,3 @@
-# 🚀 Welcome to the Code Kingdom of Chiw Jie Ren!
 
 I'm Chiw Jie Ren, an 18-year-old ICT student at Universiti Asia Pacific with a passion for turning coffee into code. 
 
