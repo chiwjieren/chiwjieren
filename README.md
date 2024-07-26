@@ -1,5 +1,5 @@
 
-I'm Chiw Jie Ren, an 18-year-old ICT student at APU with a passion for turning coffee into code. 
+I'm Chiw Jie Ren, an 18-year-old ICT student at APU 
 
 ## 🌟 Fun Facts
 
