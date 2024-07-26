@@ -20,7 +20,7 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU with a passion for turning c
 ## 💬 Let's Connect!
 
 - **GitHub**: You're already here!
-- **Email**: [Jerzltaz@gmail.com}(For serious inquiries and funny cat videos)
+- **Email**: [Jerzltaz@gmail.com](For serious inquiries and funny cat videos)
 - **Instagram**: [https://www.instagram.com/chiwstillindream/] 
 
 Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi. Happy coding!
