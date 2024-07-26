@@ -9,7 +9,7 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU with a passion for turning c
 ## 🛠️ Projects & Adventures
 
 ### 🔥 Project: Financial Summary Automation
-I developed an automated system that generates and emails daily and monthly financial summaries using Google Sheets and Google Docs. Because who has time for manual data entry?
+-I developed an automated system that generates and emails daily and monthly financial summaries using Google Sheets and Google Docs. Because who has time for manual data entry?
 
 ## 😂 Random Skills
 
