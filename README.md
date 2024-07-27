@@ -23,6 +23,7 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU
 - **Instagram**: [https://www.instagram.com/chiwstillindream/] 
 - **LinkedIn**:
 [https://www.linkedin.com/in/chiw-jieren-743862302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
 Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi. Happy coding!
 
 ![image](https://github.com/user-attachments/assets/ca31a74d-55e7-4a00-845e-a6a8b01068c8)
