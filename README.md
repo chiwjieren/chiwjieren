@@ -5,7 +5,7 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU
 
 - I code like a wizard with a wand (or at least I pretend to).
 - I firmly believe that any problem can be solved with a combination of coffee and late-night coding...with chatgpt.
-- Fluent in Yapanese
+
 ### 🔥 Project: Financial Summary Automation
 - I developed an automated system that generates and emails daily and monthly financial summaries using Google Sheets and Google Docs. Because who has time for manual data entry?
 
@@ -14,6 +14,7 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU
 - **Memes**: Can create, share, and enjoy memes at an Olympic level.
 - **Sleep Deprivation**: Functioning at peak performance on minimal sleep.
 - **Procrastination**: A black belt in "I'll do it tomorrow."
+- **Language**: Fluent in Yapanese
 
 ## 💬 Let's Connect!
 
