@@ -27,6 +27,5 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU
 Thanks for stopping by! Feel free to explore my repos, contribute, or just say hi. Happy coding!
 
 ![image](https://github.com/user-attachments/assets/ca31a74d-55e7-4a00-845e-a6a8b01068c8)
-file:///C:/Users/jerzl/OneDrive/Pictures/Screenshots/Screenshot%202024-08-17%20170347.png
 
 
