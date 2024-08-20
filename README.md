@@ -14,7 +14,8 @@ I'm Chiw Jie Ren, an 18-year-old ICT student at APU
 - **Memes**: Can create, share, and enjoy memes at an Olympic level.
 - **Sleep Deprivation**: Functioning at peak performance on minimal sleep.
 - **Procrastination**: A black belt in "I'll do it tomorrow."
-- **Language**: Fluent in Yapanese
+
+
 
 ## 💬 Let's Connect!
 
