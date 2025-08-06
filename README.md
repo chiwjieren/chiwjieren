@@ -14,6 +14,6 @@
 - **Email:** [Jerzltaz@gmail.com](mailto:Jerzltaz@gmail.com)
 - **Instagram:** [@chiwstillindream](https://www.instagram.com/chiwstillindream/)
 - **LinkedIn:** [Chiw Jie Ren](https://www.linkedin.com/in/chiw-jie-ren-743862302/)
-- **Building** [chiwbacca@yumeproof.xyz](mailto:chiwbacca@yumeproof.xyz.com)
+- **Building:** [chiwbacca@yumeproof.xyz](mailto:chiwbacca@yumeproof.xyz.com)
 
 
