@@ -1,4 +1,4 @@
-# Hey, I'm Jie Ren 👋
+# Hey, I'm Chiwbacca 👋
 
 I build things onchain and off — mostly around Web3 security, digital trust, and apps people can actually use.
 
