@@ -15,9 +15,9 @@ I've been:
 
 ### hackathon wins 🏆
 
-- **[WYSIWYS](https://github.com/chiwjieren/wysiwys)** — *What You See Is What You Sign.* A treasury payment firewall for Solana that combines Squads multisig approvals with Chainlink CRE verification and an on-chain execution guard · **Hackathon winner**, built for TOKEN2049 Origins.
+- **[WYSIWYS](https://github.com/chiwjieren/wysiwys)** — *What You See Is What You Sign.* A treasury payment firewall for Solana that combines Squads multisig approvals with Chainlink CRE verification and an on-chain execution guard · - TOKEN2049 Origins Hackathon (Cre Workflow Winner)
 - **[YumeProof](https://github.com/YumeProof)** — Android image provenance app that verifies devices with Google Play Integrity and anchors image proofs using IOTA Identity and Notarization · **[1st @ IOTA Hackathon Malaysia 2025](https://apu.edu.my/news/apu-students-triumph-iota-hackathon-malaysia-2025)**.
-- **[SOLaunch](https://github.com/chiwjieren/SOLaunch)** — Web3 crowdfunding on Solana, helping creators and communities raise funds through wallet-connected campaigns · **Hackathon winner**.
+- **[SOLaunch](https://github.com/chiwjieren/SOLaunch)** — Web3 crowdfunding on Solana, helping creators and communities raise funds through wallet-connected campaigns · - Superteam.earn Bounty (SMTY)
 
 ### other things I've built
 
