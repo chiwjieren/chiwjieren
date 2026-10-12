@@ -4,9 +4,9 @@ I build things onchain and off — mostly around Web3 security, digital trust, a
 
 > fuck around and find out.
 
-Lately, I've been:
+I've been:
 
-- ⛓️ building on Solana, IOTA, and EVM chains.
+- ⛓️ building on Solana, and EVM chains.
 - 🛡️ making transactions safer and digital media easier to verify.
 - 🏆 building with friends and winning hackathons.
 - 🛠️ turning ideas into working apps, then figuring out what breaks.
@@ -22,7 +22,4 @@ Lately, I've been:
 ### other things I've built
 
 - **[HiveGuard](https://github.com/chiwjieren/hiveguard)** — AI transaction firewall for DeFi; three specialized agents assess contract code, reputation, and trusted addresses before a transaction is broadcast.
-- **[JomTicks](https://github.com/chiwjieren/JomTicks)** — Ticketing platform focused on fair access, queue-based booking, and anti-scalping measures.
-- **[SMARTKIRA](https://github.com/chiwjieren/GHACK24_TeamX)** — Financial reporting automation with Google Apps Script; turns income and expense data into daily and monthly summaries, charts, and email reports.
 
-Usually working with **TypeScript, Next.js, Rust, Anchor, Solidity, Python, and FastAPI**.
